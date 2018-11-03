@@ -1,0 +1,18 @@
+.d{
+	border: 2px solid black;
+	width: 25%;
+	margin-left:35%;
+	position: relative;
+	text-align: center;
+}
+.d:before{
+	content:"hola";
+	position: absolute;
+	right:200px;
+	bottom:0px;
+}
+.d:after{
+	content:"mundo";
+
+
+}

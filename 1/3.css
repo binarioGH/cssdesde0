@@ -1,0 +1,10 @@
+body{
+	background-color:#04B4AE; 
+}
+.d{
+	background-color:white;
+	text-align: center;
+	margin:1rem;
+	padding:1rem;
+	border:2px solid #ccc;
+}

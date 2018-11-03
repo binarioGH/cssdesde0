@@ -1,7 +1,6 @@
-h2,h4,h6{
+h2,h4,h6{	
 	color: red;
 }
-
 h6{
 	font-size: 50px;
 }
@@ -14,3 +13,12 @@ a{
 p a{
 	color: purple;
 }
+.link{
+	color: green;
+	font-size: 10px;
+}
+
+/*
+Nota, las ID ya no se utilizan, solo 
+las clases uwu.
+*/
