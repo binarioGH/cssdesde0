@@ -1,0 +1,16 @@
+.d{
+	border:2px solid black;
+	position: relative;
+	width: 50%;
+	margin-left:25%;
+	text-align: center;
+	background-color:white;
+
+}
+.d:hover{
+	background-color:#EA9438;
+
+}
+a:focus{
+	color:red;
+}

@@ -1,0 +1,15 @@
+body{
+	background-color:#2E64FE;
+}
+.caja{
+	background-color:#F2F2F2;
+	margin-left:25%;
+	width: 50%; 
+	border:20px solid black;
+	text-align: center;
+
+}
+
+.caja:hover{
+	background-color:#F7FE2E;
+}
