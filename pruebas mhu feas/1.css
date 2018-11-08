@@ -6,11 +6,15 @@ div{
 	margin-bottom: 10%;
 	width: 50%;
 }
+p{
+	margin: 0px;
+}
 div:hover{
 	background-color:#D8D8D8;
 }
 #d1{
 	border-style: dotted;
+	border-radius:20px; 
 	border-color: red;
 }
 #d2{
@@ -28,10 +32,17 @@ div:hover{
 
 }
 #d5{
-	border-style:groove;
+	text-align: center;
+	background-color:#D8D8D8;
+	
+	font-style:italic;
+	border-style: none;
+	height:25%;
+	border-left:10px solid #2E2EFE;
+
 }
 #d6{
-	border-style: ridge;
+	border-radius: 20px;
 }
 #d7{
 	border-style: inset;
