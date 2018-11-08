@@ -1,0 +1,38 @@
+div{
+	background-color: white;
+	border:2px solid black;
+	text-align:center;
+	margin-left: 25%;
+	margin-bottom: 10%;
+	width: 50%;
+}
+div:hover{
+	background-color:#D8D8D8;
+}
+#d1{
+	border-style: dotted;
+	border-color: red;
+}
+#d2{
+	border-style:dashed;
+	border-color: rgb(1,100,40);
+}
+#d3{
+	border-top-style:solid;
+	border-top-color:red;
+}
+#d4{
+	border-bottom-style: double;
+	border-top-style:dashed;
+	border-bottom-color:blue;
+
+}
+#d5{
+	border-style:groove;
+}
+#d6{
+	border-style: ridge;
+}
+#d7{
+	border-style: inset;
+}
