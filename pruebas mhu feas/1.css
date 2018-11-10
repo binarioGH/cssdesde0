@@ -6,7 +6,7 @@ div{
 	margin-bottom: 10%;
 	width: 50%;
 }
-p{
+#d5 p{
 	margin: 0px;
 }
 div:hover{
@@ -34,11 +34,12 @@ div:hover{
 #d5{
 	text-align: center;
 	background-color:#D8D8D8;
-	
+	padding:8px;
 	font-style:italic;
 	border-style: none;
 	height:25%;
 	border-left:10px solid #2E2EFE;
+	border-radius:10px;
 
 }
 #d6{
