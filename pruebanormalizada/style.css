@@ -1,0 +1,30 @@
+*{
+	font-family:"Arial";
+}
+
+header{
+	width:20%;
+	margin-left:40%;
+	border:5px solid black;
+}
+.letrero{
+	text-align:center;
+	font-family:"Arial Black";
+	font-size:30px;
+	color:white;
+	background-color:black;
+}
+
+article{
+	margin-left:25%;
+	width:50%;
+	border:2px solid black;
+	margin-bottom:10%;
+	margin-top:10%;
+}
+footer{
+	background-color:black;
+	text-align: center;
+	color:white;
+	height: 100%;
+}
