@@ -1,0 +1,24 @@
+body{
+	font-size:16px;
+	font-family:"Arial";
+}
+p.em{
+	/*El EM usa como base su erencia, si pones 2em y tiene 16px de herencia, eso
+	significa que 2em == 32px*/
+	font-size:2em;
+}
+
+p.ex{
+	/*El EX toma como escala la altura de la x minusula.*/
+	font-size:1ex;
+}
+
+div p{
+	/*Este codigo va a bajo porque el div está abajo, es importante ser ordenado.*/
+	font-size:3em;
+}
+
+div p.rem{
+	/*Al rem no le importa la herencia, hace la escala en base al root*/
+	font-size:3rem;
+}
