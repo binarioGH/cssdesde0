@@ -1,0 +1,25 @@
+div.prueba{
+	background-color:black;
+	border-left:10px solid red;
+	border-right:10px solid red;
+	width:25%;
+	height: 25%;
+	color:red;
+	text-align:center;
+	padding-top:4px;
+	margin-left:35%;
+}
+
+div.fijo{
+	background-color:red;
+	width: 100px;
+	height:100px;
+	color:red;
+}
+div.porcentual{
+	background-color:green;
+	color:green;
+	height: 100px;
+	width:50%;
+	margin:5%;
+}
