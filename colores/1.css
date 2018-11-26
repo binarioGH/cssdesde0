@@ -1,0 +1,27 @@
+div{
+	margin-left:25%;
+	width:50%;
+	border:2px solid black;
+	background:#ffff ;
+	margin-top:10%;
+	height:100px;
+}
+div.reservada{
+	background:lime;
+}
+div.rgb{
+	background:rgb(100, 100 ,100);
+}
+
+div.hexadecimal{
+	background:#131251;
+}
+
+div.porcentual{
+	background:rgb(50%,20%,70%);
+}
+
+div.hsl{
+	background:hsl(10,50%,20%	);
+}
+
