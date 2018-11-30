@@ -1,0 +1,24 @@
+h1.titular{
+	font-family:"Arial Black";
+	font-size:20px;
+	text-align:center;
+}
+
+header{
+	margin-left:10%;
+	margin-top:5%;
+	width:80%;
+	margin-bottom:10%;
+	border:10px solid black;
+}
+
+#listanav{
+	margin-left:40%;
+	list-style:none;
+}
+li{
+	border:1px solid red;
+	padding:10px;
+	width: 20%;
+	height:20%;
+}
