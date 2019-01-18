@@ -1,0 +1,23 @@
+header{
+	border:2px solid black;
+	margin-left:25%;
+	width: 50%;
+}
+h1{
+	border-bottom:2px solid black;
+	font-family: "Arial Black";
+	text-align: center;
+}
+ul{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	width: 50%;
+	margin-left:23%;
+}
+li{
+	display:inline-block;
+	margin-left:5%;
+	margin-right:5%;
+	border-left:1px solid black;
+	border-right:1px solid black;
+}
