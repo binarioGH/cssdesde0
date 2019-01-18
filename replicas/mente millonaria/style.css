@@ -1,0 +1,29 @@
+
+header{
+	background-color:#F3F5F3;
+	width:80%;
+	margin-left:10%;
+	height:48px;
+}
+figure.mainpic{
+	margin:0px 0px 0px 0px;
+	display:inline-block;
+}
+img.logo{
+	width:240px;
+	height:48px;
+	display:inline-block;
+}
+nav.navtop{
+	display:inline-block;
+}
+li.navlist{
+	font-color:black;
+	font-family:"Cambria";
+	display:inline-block;
+	margin-left:2%;
+	margin-right:2%;
+}
+li.navlist:hover{
+	border-bottom:3px solid #C20A0A;
+}
