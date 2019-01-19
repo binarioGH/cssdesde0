@@ -27,3 +27,25 @@ li.navlist{
 li.navlist:hover{
 	border-bottom:3px solid #C20A0A;
 }
+article{
+	width: 70%;
+	margin-left:15%;
+}
+div.sep{
+	margin-left:35%;
+	width:30%;
+	height:2px;
+	margin-bottom:3px;
+	margin-top:10%;
+	border-top:3px solid black;
+}
+h3{
+	font-size:30px;
+	text-align: center;
+}
+p{
+	font-family:"Arial";
+}
+span.bld{
+	font-family:"Arial Black";
+}
