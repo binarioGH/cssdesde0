@@ -1,0 +1,53 @@
+/*Cosas utiles v*/
+/*{
+	border:1px solid red;
+}*/
+.titular{
+	font-family: "Arial Black";
+	border-bottom:1px solid black;
+	border-top:1px solid black;
+	width:20%;
+	margin-left:40%;
+}
+/*Cosas utiles ^*/
+/*La parte de arriba de la página v*/
+header{
+	border:2px solid black;
+	width:100%;
+	position:fixed;
+}
+h1.titular{
+	width:20%;
+	margin-left:2%;
+	display:inline-block;
+
+}
+nav{
+	width:70%;
+	margin-left:5%;
+	display:inline-block;
+}
+.linklu{
+	width:70%;
+}
+.linkli{
+	text-align:center;
+	margin-left:11%;
+	width:13%;
+	display:inline-block;
+	border-bottom:2px solid black;
+	text-align:center;
+}
+.linkli:hover{
+	border-bottom:2px solid red;
+}
+li.linkli a{
+	color:black;
+	font-family:"Arial";
+	border-bottom:none none none;
+}
+/*La parte de arruba de la página ^*/
+
+article{
+	margin-top:100%;
+}
