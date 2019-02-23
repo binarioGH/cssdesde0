@@ -1,6 +1,5 @@
 *{
 	font-family: "Arial";
-	border:1px solid black;
 }
 .br{
 	display:block;
@@ -47,9 +46,7 @@ nav.topnav form{
 	display: inline-block;
 	margin-left:25%;
 }
-h1.logo{
 
-}
 h1.logo a{
 	text-decoration:none;
 	color:#E46032;
@@ -63,10 +60,20 @@ nav.bottomnav{
 	border-bottom:5px solid #E46032;
 }
 nav.bottomnav ul{
-	margin
+	margin-top:0px;
+	margin-bottom:0px;
+	height: 40px;
 }
 nav.bottomnav ul li{
+	margin-top:2px;
 	display:inline-block;
+	margin-right:2%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+nav.bottomnav ul li:hover{
+	background-color:#2E2E2E;
+	border-bottom:5px solid #DF0101;
 }
 nav.bottomnav ul li a{
 	text-decoration:none;
@@ -75,4 +82,24 @@ nav.bottomnav ul li a{
 	padding-bottom:10px;
 	padding-left:5px;
 	padding-right:5px;
+}
+section.hentry{
+	margin-left:30%;
+	width:40%;
+	display:inline-block;
+	height:400px;
+}
+aside.mainaside{
+	display:inline-block;
+	margin-left:5%;
+	width:20%;
+}
+h2.asideheader{
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:15px;
+	background-color:#46403E;
+	border-left:20px solid #E46032;
+	color:white;
+	padding-left:10px;
 }
